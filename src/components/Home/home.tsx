@@ -1,6 +1,8 @@
 import './home.css'
 import Foto from '../imgs/perfil/Foto.png'
 import { Portifolio } from '../Portifólio/portifolio'
+import { SobreMim  } from '../sobre mim/sobremim'
+import { Projetos } from '../projetos/projetos'
 
 
 export const Home = () => {
@@ -17,7 +19,9 @@ export const Home = () => {
                     <img className='img-home' src={Foto} />
                 </>
             </div>
+            <SobreMim />
             <Portifolio />
+            <Projetos />
         </>
     )
 }

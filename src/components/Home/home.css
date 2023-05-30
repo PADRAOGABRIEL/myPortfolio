@@ -7,7 +7,7 @@
     max-width: 900px;
     justify-content: center;
     background-color: rgb(0, 33, 65);
-    margin: 40px auto 40px auto;
+    margin: 55px auto 60px auto;
     border-radius: 70px;
 }
 
@@ -16,7 +16,7 @@
     height: 300px;
     border-radius: 30%;
     border-color:rgb(39, 77, 160);
-    border-style:solid;
+    border-style:double;
     margin-left: 30px;
 }
 
