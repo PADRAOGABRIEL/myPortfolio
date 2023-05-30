@@ -1,0 +1,60 @@
+
+.portifolio-geral {
+    background-color: rgb(255, 255, 255);
+    padding: 20px 0 60px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+p {
+    margin-top: 15px;
+    font-size: 20px;
+    max-width: 100%;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 35px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.foto-git {
+    width: 130px;
+}
+
+
+.foto-lkdin {
+    width: 80px;
+}
+
+.lkdin-session {
+    margin-top: 70px;
+}
+
+.lkdin-session h1 {
+    color: rgb(0, 119, 183);
+}
+
+.lkdin-session p {
+    color: rgb(0, 119, 183);
+}
+
+.projetos-session {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    height: 70px;
+    max-width: 500px;
+    justify-content: center;
+    background-color: rgb(0, 33, 65);
+    margin: 40px auto 40px auto;
+    border-radius: 70px;
+}
+
+.projetos-session h1 {
+    color: white;
+}
